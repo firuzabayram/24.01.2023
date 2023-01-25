@@ -1,0 +1,14 @@
+.yellowgrey{
+    display: flex;
+    
+    .yellow{
+        background-color: rgb(255, 174, 0);
+        color: white;
+        button{
+            background-color: rgb(0, 0, 0);
+            padding: 15px 30px;
+            border-radius: 10%;
+            color: white;
+        }
+    }
+}
